@@ -1,6 +1,6 @@
 # Título del trabajo
 
-//Juego química-general, en este prgrama se realizaran preguntas de química.
+//Juego química-general, en este programa se realizarán preguntas de química.
 
 ## Integrantes del equipo
 
