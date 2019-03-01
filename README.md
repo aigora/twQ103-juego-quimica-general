@@ -1,11 +1,14 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+//Juego química-general, en este prgrama se realizaran preguntas de química.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+//David Carrillo Rodríguez Usuario: Carri0202
+//Javier Palomeque Carrillo Usuario: JaviPalomeque
+//Jaime Casas _ Usuario:_ 
+
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+//En este programa intentaremos aprender lo imprescindible de la química con una serie de actividades y preguntas.
