@@ -12,3 +12,9 @@
 ## Objetivos del trabajo
 
 //En este programa intentaremos aprender lo imprescindible de la química con una serie de actividades y preguntas.
+//El programa tendrá la opción de registrase teniendo cada usuario su propia cuenta para saber sus resultados en las diferentes 
+//actividades que plantearemos de la quimica.
+//Estará dividido en varios temas de la quimica para que el usuario pueda elegir las preguntas que quiera realizar.
+//También tendrá unos marcadores para saber cual es el mejor usuario que ha utilizado el programa.
+//Implementaremos más funciones durante la realización del trabajo.
+
