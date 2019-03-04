@@ -6,7 +6,7 @@
 
 //David Carrillo Rodríguez Usuario: Carri0202
 //Javier Palomeque Carrillo Usuario: JaviPalomeque
-//Jaime Casas _ Usuario:_ 
+//Jaime Casas _ Usuario:Jaimecasass
 
 
 ## Objetivos del trabajo
